@@ -1,0 +1,16 @@
+print = ('hello')
+
+x = ['.','..','...']
+
+beep = True
+for y in range (len(x))
+ print (x)
+
+ beep = False
+
+
+
+
+
+#import os
+#  os.system('clear')
